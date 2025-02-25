@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+*.env
+*.venv
+
+# Django stuff
+*.log
+db.sqlite3
+media/
+staticfiles/
+
+# Environment variables
+.env
+.env.local
+.env.*
+
+# Migrations
+**/migrations/*
+!**/migrations/__init__.py
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+
+# Dependencies
+node_modules/
+
+# Git files
+.git/
+.gitignore
+
+# Compiled files
+*.so
+*.o
+*.pyc
+
