@@ -14,8 +14,8 @@ This project is a Django REST Framework (DRF) application that utilizes multiple
 ## Installation
 ### 1. Clone the Repository
 ```sh
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/husnainhashmi5/multi_db_project.git
+cd multi_db_project
 ```
 
 ### 2. Create and Activate a Virtual Environment
